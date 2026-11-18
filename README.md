@@ -37,7 +37,7 @@ These state-of-the-art tools synthesize production-grade textured 3D meshes (`.g
 - [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [🏢 SaaS & Hosted Commercial Platforms](#-saas--hosted-commercial-platforms)
 - [🔓 Open-Source GitHub Foundation Models & Frameworks](#-open-source-github-foundation-models--frameworks)
-  - [⭐ Ranked Open-Source Repositories (By GitHub Stars)](#-ranked-open-source-repositories-by-github-stars)
+  - [⭐ Ranked Open-Source Repositories (By GitHub_Stars)](#-ranked-open-source-repositories-by-github-stars)
   - [🧩 ComfyUI, Add-ons & Developer Frameworks](#-comfyui-add-ons--developer-frameworks)
 - [📈 Star History](#-star-history)
 - [🤝 How to Contribute](#-how-to-contribute)
@@ -77,83 +77,83 @@ Below is a comparison of leading 3D Generative AI SaaS and hosted commercial pla
 
 Open-source 3D generative AI empowers game developers, spatial computing researchers, and 3D artists to run state-of-the-art inference locally on consumer or workstation GPUs (NVIDIA RTX 3080/4090/A100) with complete privacy, license ownership, and zero recurring credit paywalls.
 
-### ⭐ Ranked Open-Source Repositories (By GitHub Stars)
+### ⭐ Ranked Open-Source Repositories (By GitHub_Stars)
 
-The following repositories represent the foundational algorithms, neural representations, and generative engines driving modern 3D AI, strictly sorted by **GitHub Star Count** in descending order:
+The following repositories represent the foundational algorithms, neural representations, and generative engines driving modern 3D AI, strictly sorted by **GitHub Stars_Count** in descending order:
 
-1. **[graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting)** [![GitHub stars](https://img.shields.io/github/stars/graphdeco-inria/gaussian-splatting?style=social&color=white)](https://github.com/graphdeco-inria/gaussian-splatting/stargazers)  
+1. **[graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting)** [![GitHub_Stars](https://img.shields.io/github/stars/graphdeco-inria/gaussian-splatting?style=social&color=white)](https://github.com/graphdeco-inria/gaussian-splatting/stargazers)  
    The seminal reference implementation of *3D Gaussian Splatting for Real-Time Radiance Field Rendering* (SIGGRAPH 2023), enabling real-time rasterization and view synthesis of photorealistic 3D scenes.
 
-2. **[NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp)** [![GitHub stars](https://img.shields.io/github/stars/NVlabs/instant-ngp?style=social&color=white)](https://github.com/NVlabs/instant-ngp/stargazers)  
+2. **[NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp)** [![GitHub_Stars](https://img.shields.io/github/stars/NVlabs/instant-ngp?style=social&color=white)](https://github.com/NVlabs/instant-ngp/stargazers)  
    NVIDIA's instant neural graphics primitives framework enabling real-time training and inference of Neural Radiance Fields (NeRF), signed distance functions (SDF), and gigapixel images in seconds.
 
-3. **[Tencent-Hunyuan/Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2)** [![GitHub stars](https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan3D-2?style=social&color=white)](https://github.com/Tencent-Hunyuan/Hunyuan3D-2/stargazers)  
+3. **[Tencent-Hunyuan/Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2)** [![GitHub_Stars](https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan3D-2?style=social&color=white)](https://github.com/Tencent-Hunyuan/Hunyuan3D-2/stargazers)  
    High-resolution 3D asset generation suite utilizing large-scale flow-based shape diffusion (`Hunyuan3D-DiT`) and multi-view PBR texture synthesis (`Hunyuan3D-Paint`) with Gradio and Blender support.
 
-4. **[microsoft/TRELLIS](https://github.com/microsoft/TRELLIS)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/TRELLIS?style=social&color=white)](https://github.com/microsoft/TRELLIS/stargazers)  
+4. **[microsoft/TRELLIS](https://github.com/microsoft/TRELLIS)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/TRELLIS?style=social&color=white)](https://github.com/microsoft/TRELLIS/stargazers)  
    Microsoft's state-of-the-art 3D generative foundation model (CVPR 2025 Spotlight) utilizing Structured 3D Latents (SLAT) to decode textured meshes, 3D Gaussians, and radiance fields from text or single images.
 
-5. **[isl-org/Open3D](https://github.com/isl-org/Open3D)** [![GitHub stars](https://img.shields.io/github/stars/isl-org/Open3D?style=social&color=white)](https://github.com/isl-org/Open3D/stargazers)  
+5. **[isl-org/Open3D](https://github.com/isl-org/Open3D)** [![GitHub_Stars](https://img.shields.io/github/stars/isl-org/Open3D?style=social&color=white)](https://github.com/isl-org/Open3D/stargazers)  
    An open-source library that supports rapid development of software handling 3D point clouds, mesh processing, scene reconstruction, spatial alignment, and 3D visualization.
 
-6. **[openai/shap-e](https://github.com/openai/shap-e)** [![GitHub stars](https://img.shields.io/github/stars/openai/shap-e?style=social&color=white)](https://github.com/openai/shap-e/stargazers)  
+6. **[openai/shap-e](https://github.com/openai/shap-e)** [![GitHub_Stars](https://img.shields.io/github/stars/openai/shap-e?style=social&color=white)](https://github.com/openai/shap-e/stargazers)  
    OpenAI's foundational 3D generative model capable of generating conditional 3D implicit functions, textured polygon meshes, and NeRF representations conditioned on text prompts or images.
 
-7. **[nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio)** [![GitHub stars](https://img.shields.io/github/stars/nerfstudio-project/nerfstudio?style=social&color=white)](https://github.com/nerfstudio-project/nerfstudio/stargazers)  
+7. **[nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio)** [![GitHub_Stars](https://img.shields.io/github/stars/nerfstudio-project/nerfstudio?style=social&color=white)](https://github.com/nerfstudio-project/nerfstudio/stargazers)  
    A modular, collaboration-friendly framework for creating, training, and testing NeRFs and 3D Gaussian Splats with real-time visual web viewers and export pipelines.
 
-8. **[facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d)** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/pytorch3d?style=social&color=white)](https://github.com/facebookresearch/pytorch3d/stargazers)  
+8. **[facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d)** [![GitHub_Stars](https://img.shields.io/github/stars/facebookresearch/pytorch3d?style=social&color=white)](https://github.com/facebookresearch/pytorch3d/stargazers)  
    Meta AI (FAIR)'s modular, efficient, and differentiable library of 3D deep learning operators, heterogeneous batching, ray-marching, and mesh renderers in PyTorch.
 
-9. **[ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion)** [![GitHub stars](https://img.shields.io/github/stars/ashawkey/stable-dreamfusion?style=social&color=white)](https://github.com/ashawkey/stable-dreamfusion/stargazers)  
+9. **[ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion)** [![GitHub_Stars](https://img.shields.io/github/stars/ashawkey/stable-dreamfusion?style=social&color=white)](https://github.com/ashawkey/stable-dreamfusion/stargazers)  
    PyTorch implementation of Text-to-3D & Image-to-3D generation using 2D Stable Diffusion Score Distillation Sampling (SDS) with explicit textured mesh exportation.
 
-10. **[VAST-AI-Research/TripoSR](https://github.com/VAST-AI-Research/TripoSR)** [![GitHub stars](https://img.shields.io/github/stars/VAST-AI-Research/TripoSR?style=social&color=white)](https://github.com/VAST-AI-Research/TripoSR/stargazers)  
+10. **[VAST-AI-Research/TripoSR](https://github.com/VAST-AI-Research/TripoSR)** [![GitHub_Stars](https://img.shields.io/github/stars/VAST-AI-Research/TripoSR?style=social&color=white)](https://github.com/VAST-AI-Research/TripoSR/stargazers)  
     Ultra-fast feed-forward 3D reconstruction model co-developed with Stability AI that generates textured 3D meshes from a single image in under 0.5 seconds on consumer GPUs.
 
-11. **[threestudio-project/threestudio](https://github.com/threestudio-project/threestudio)** [![GitHub stars](https://img.shields.io/github/stars/threestudio-project/threestudio?style=social&color=white)](https://github.com/threestudio-project/threestudio/stargazers)  
+11. **[threestudio-project/threestudio](https://github.com/threestudio-project/threestudio)** [![GitHub_Stars](https://img.shields.io/github/stars/threestudio-project/threestudio?style=social&color=white)](https://github.com/threestudio-project/threestudio/stargazers)  
     A unified framework for 3D content generation from text prompts, single images, and few-view inputs using various diffusion distillation principles (`DreamFusion`, `Magic3D`, `Zero123`).
 
-12. **[xxlong0/Wonder3D](https://github.com/xxlong0/Wonder3D)** [![GitHub stars](https://img.shields.io/github/stars/xxlong0/Wonder3D?style=social&color=white)](https://github.com/xxlong0/Wonder3D/stargazers)  
+12. **[xxlong0/Wonder3D](https://github.com/xxlong0/Wonder3D)** [![GitHub_Stars](https://img.shields.io/github/stars/xxlong0/Wonder3D?style=social&color=white)](https://github.com/xxlong0/Wonder3D/stargazers)  
     Cross-domain diffusion framework generating consistent multi-view normal maps and color images from a single RGB image to reconstruct detailed 3D textured geometry.
 
-13. **[TencentARC/InstantMesh](https://github.com/TencentARC/InstantMesh)** [![GitHub stars](https://img.shields.io/github/stars/TencentARC/InstantMesh?style=social&color=white)](https://github.com/TencentARC/InstantMesh/stargazers)  
+13. **[TencentARC/InstantMesh](https://github.com/TencentARC/InstantMesh)** [![GitHub_Stars](https://img.shields.io/github/stars/TencentARC/InstantMesh?style=social&color=white)](https://github.com/TencentARC/InstantMesh/stargazers)  
     Feed-forward framework synthesizing high-quality 3D meshes from a single image in 10 seconds by integrating multi-view diffusion with a sparse-view Large Reconstruction Model (LRM).
 
-14. **[cvg/Hierarchical-Localization](https://github.com/cvg/Hierarchical-Localization)** [![GitHub stars](https://img.shields.io/github/stars/cvg/Hierarchical-Localization?style=social&color=white)](https://github.com/cvg/Hierarchical-Localization/stargazers)  
+14. **[cvg/Hierarchical-Localization](https://github.com/cvg/Hierarchical-Localization)** [![GitHub_Stars](https://img.shields.io/github/stars/cvg/Hierarchical-Localization?style=social&color=white)](https://github.com/cvg/Hierarchical-Localization/stargazers)  
     The `hloc` visual localization and structure-from-motion (SfM) toolbox mapping images into persistent 3D spatial coordinate frames for robotics and spatial modeling.
 
-15. **[hustvl/4DGaussians](https://github.com/hustvl/4DGaussians)** [![GitHub stars](https://img.shields.io/github/stars/hustvl/4DGaussians?style=social&color=white)](https://github.com/hustvl/4DGaussians/stargazers)  
+15. **[hustvl/4DGaussians](https://github.com/hustvl/4DGaussians)** [![GitHub_Stars](https://img.shields.io/github/stars/hustvl/4DGaussians?style=social&color=white)](https://github.com/hustvl/4DGaussians/stargazers)  
     4D Gaussian Splatting framework (CVPR 2024) delivering real-time dynamic spatial scene rendering and deformation tracking across temporal sequences.
 
-16. **[MrForExample/ComfyUI-3D-Pack](https://github.com/MrForExample/ComfyUI-3D-Pack)** [![GitHub stars](https://img.shields.io/github/stars/MrForExample/ComfyUI-3D-Pack?style=social&color=white)](https://github.com/MrForExample/ComfyUI-3D-Pack/stargazers)  
+16. **[MrForExample/ComfyUI-3D-Pack](https://github.com/MrForExample/ComfyUI-3D-Pack)** [![GitHub_Stars](https://img.shields.io/github/stars/MrForExample/ComfyUI-3D-Pack?style=social&color=white)](https://github.com/MrForExample/ComfyUI-3D-Pack/stargazers)  
     An extensive node suite empowering ComfyUI to process 3D inputs, UV textures, 3DGS point clouds, and NeRF rendering via visual node-graph workflows.
 
-17. **[Tencent-Hunyuan/HunyuanWorld-1.0](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0)** [![GitHub stars](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanWorld-1.0?style=social&color=white)](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0/stargazers)  
+17. **[Tencent-Hunyuan/HunyuanWorld-1.0](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0)** [![GitHub_Stars](https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanWorld-1.0?style=social&color=white)](https://github.com/Tencent-Hunyuan/HunyuanWorld-1.0/stargazers)  
     Generative 3D spatial world modeling framework synthesizing explorable, interactive 360° environments and mesh landscapes from words or pixels.
 
-18. **[wgsxm/PartCrafter](https://github.com/wgsxm/PartCrafter)** [![GitHub stars](https://img.shields.io/github/stars/wgsxm/PartCrafter?style=social&color=white)](https://github.com/wgsxm/PartCrafter/stargazers)  
+18. **[wgsxm/PartCrafter](https://github.com/wgsxm/PartCrafter)** [![GitHub_Stars](https://img.shields.io/github/stars/wgsxm/PartCrafter?style=social&color=white)](https://github.com/wgsxm/PartCrafter/stargazers)  
     Structured 3D mesh generation model (NeurIPS 2025) via compositional latent diffusion transformers, generating semantically decomposed, individually editable 3D parts.
 
-19. **[NVlabs/nvdiffrec](https://github.com/NVlabs/nvdiffrec)** [![GitHub stars](https://img.shields.io/github/stars/NVlabs/nvdiffrec?style=social&color=white)](https://github.com/NVlabs/nvdiffrec/stargazers)  
+19. **[NVlabs/nvdiffrec](https://github.com/NVlabs/nvdiffrec)** [![GitHub_Stars](https://img.shields.io/github/stars/NVlabs/nvdiffrec?style=social&color=white)](https://github.com/NVlabs/nvdiffrec/stargazers)  
     NVIDIA's differentiable rendering pipeline (CVPR 2022 Oral) extracting triangular 3D models, PBR materials, and environment lighting directly from multi-view images.
 
-20. **[Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d)** [![GitHub stars](https://img.shields.io/github/stars/Sandflow-ai/sand3d?style=social&color=white)](https://github.com/Sandflow-ai/sand3d/stargazers)  
+20. **[Sandflow-ai/sand3d](https://github.com/Sandflow-ai/sand3d)** [![GitHub_Stars](https://img.shields.io/github/stars/Sandflow-ai/sand3d?style=social&color=white)](https://github.com/Sandflow-ai/sand3d/stargazers)  
     Declarative Python 3D-as-code modeling library built over Blender's `bpy` specifically for LLMs, generating deterministic, articulated 3D assemblies exported to `GLB`, `URDF`, `USD`, and `STL`.
 
-21. **[apple-aiml-research/ml-aim](https://github.com/apple-aiml-research/ml-aim)** [![GitHub stars](https://img.shields.io/github/stars/apple-aiml-research/ml-aim?style=social&color=white)](https://github.com/apple-aiml-research/ml-aim/stargazers)  
+21. **[apple-aiml-research/ml-aim](https://github.com/apple-aiml-research/ml-aim)** [![GitHub_Stars](https://img.shields.io/github/stars/apple-aiml-research/ml-aim?style=social&color=white)](https://github.com/apple-aiml-research/ml-aim/stargazers)  
     Apple's multimodal autoregressive visual foundation model pre-training code and checkpoints (AIMv1 and AIMv2) for high-capacity visual representation learning.
 
-22. **[allenai/objaverse-xl](https://github.com/allenai/objaverse-xl)** [![GitHub stars](https://img.shields.io/github/stars/allenai/objaverse-xl?style=social&color=white)](https://github.com/allenai/objaverse-xl/stargazers)  
+22. **[allenai/objaverse-xl](https://github.com/allenai/objaverse-xl)** [![GitHub_Stars](https://img.shields.io/github/stars/allenai/objaverse-xl?style=social&color=white)](https://github.com/allenai/objaverse-xl/stargazers)  
     A massive universe of 10M+ 3D objects curated by the Allen Institute for AI (AI2), serving as the principal benchmark and pre-training dataset for 3D generative AI.
 
-23. **[bytedance/1d-tokenizer](https://github.com/bytedance/1d-tokenizer)** [![GitHub stars](https://img.shields.io/github/stars/bytedance/1d-tokenizer?style=social&color=white)](https://github.com/bytedance/1d-tokenizer/stargazers)  
+23. **[bytedance/1d-tokenizer](https://github.com/bytedance/1d-tokenizer)** [![GitHub_Stars](https://img.shields.io/github/stars/bytedance/1d-tokenizer?style=social&color=white)](https://github.com/bytedance/1d-tokenizer/stargazers)  
     ByteDance's continuous 1D tokenizer and sequence generative model architecture for continuous multidimensional signals and geometry synthesis.
 
-24. **[3DTopia/Phidias-Diffusion](https://github.com/3DTopia/Phidias-Diffusion)** [![GitHub stars](https://img.shields.io/github/stars/3DTopia/Phidias-Diffusion?style=social&color=white)](https://github.com/3DTopia/Phidias-Diffusion/stargazers)  
+24. **[3DTopia/Phidias-Diffusion](https://github.com/3DTopia/Phidias-Diffusion)** [![GitHub_Stars](https://img.shields.io/github/stars/3DTopia/Phidias-Diffusion?style=social&color=white)](https://github.com/3DTopia/Phidias-Diffusion/stargazers)  
     ICLR 2025 generative model for synthesizing 3D content from text, image, and 3D conditions with reference-augmented diffusion.
 
-25. **[autonomousvision/occupancy_flow](https://github.com/autonomousvision/occupancy_flow)** [![GitHub stars](https://img.shields.io/github/stars/autonomousvision/occupancy_flow?style=social&color=white)](https://github.com/autonomousvision/occupancy_flow/stargazers)  
+25. **[autonomousvision/occupancy_flow](https://github.com/autonomousvision/occupancy_flow)** [![GitHub_Stars](https://img.shields.io/github/stars/autonomousvision/occupancy_flow?style=social&color=white)](https://github.com/autonomousvision/occupancy_flow/stargazers)  
     Continuous 4D reconstruction framework learning particle dynamics and time-varying 3D surface geometry from dynamic visual sequences.
 
 ---
